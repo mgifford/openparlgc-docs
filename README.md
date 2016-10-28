@@ -13,12 +13,12 @@ List of constituencies in CSV/XML
 Hansard in XML
   http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=E&Mode=1&Parl=42&Ses=1&DocId=8512294&xml=true
   
-MP Roles & Committee Membership
+MP Roles & Committee Membership to XML
   http://www.parl.gc.ca/parliamentarians/en/membership
   
-Expenditures by Member
+Expenditures by Member to XML
   http://www.parl.gc.ca/PublicDisclosure/MemberExpenditures.aspx?Id=MER2016Q1&Language=E
   
-Cabinet
+Cabinet to XML
   http://www.parl.gc.ca/parliamentarians/en/ministries
   
