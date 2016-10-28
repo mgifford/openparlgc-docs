@@ -25,8 +25,6 @@ Cabinet to XML
 Petition Search CSV/XML
   https://petitions.parl.gc.ca/en/Petition/Search?category=All&text=peace
 
-LEGISinfo to XML
-  http://www.parl.gc.ca/LEGISInfo/Home.aspx?language=E&ParliamentSession=42-1
   
 Research Publications RSS Feed
   http://www.lop.parl.gc.ca/About/Library/VirtualLibrary/ResearchPublications-e.asp?Language=E
