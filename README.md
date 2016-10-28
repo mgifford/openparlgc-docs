@@ -34,8 +34,3 @@ Schedule of All Meetings RSS Feed
   
 Our Commons - odata 
   http://ourcommons.ca/odata
-
-Validation of odata format produces errors:
-  http://services.odata.org/validation/validation.htm
-  
-
