@@ -21,4 +21,16 @@ Expenditures by Member to XML
   
 Cabinet to XML
   http://www.parl.gc.ca/parliamentarians/en/ministries
+
+Petition Search CSV/XML
+  https://petitions.parl.gc.ca/en/Petition/Search?category=All&text=peace
+
+LEGISinfo to XML
+  http://www.parl.gc.ca/LEGISInfo/Home.aspx?language=E&ParliamentSession=42-1
+  
+Research Publications RSS Feed
+  http://www.lop.parl.gc.ca/About/Library/VirtualLibrary/ResearchPublications-e.asp?Language=E
+  
+Schedule of All Meetings RSS Feed
+  http://www.parl.gc.ca/SenCommitteeBusiness/AllMeetings.aspx?Language=E&pastMeetings=1
   
