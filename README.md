@@ -10,7 +10,7 @@ Search MP's to CSV/XML
 List of constituencies in CSV/XML
   http://www.parl.gc.ca/Parliamentarians/en/constituencies
   
-Hansard in XML
+Hansard & Committees in XML
   http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=E&Mode=1&Parl=42&Ses=1&DocId=8512294&xml=true
   
 MP Roles & Committee Membership to XML
