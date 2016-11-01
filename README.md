@@ -6,28 +6,31 @@ This is a stub which can be used to provide other links and documentation which 
 
 Search MP's to CSV/XML
   http://www.parl.gc.ca/parliamentarians/en/members
-  
+
+
 List of constituencies in CSV/XML
   http://www.parl.gc.ca/Parliamentarians/en/constituencies
-  
+
+
 Hansard & Committees in XML
   http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=E&Mode=1&Parl=42&Ses=1&DocId=8512294&xml=true
-  
+
+
 MP Roles & Committee Membership to XML
   http://www.parl.gc.ca/parliamentarians/en/membership
-  
+
+
 Expenditures by Member to XML
   http://www.parl.gc.ca/PublicDisclosure/MemberExpenditures.aspx?Id=MER2016Q1&Language=E
-  
+
+
 Cabinet to XML
   http://www.parl.gc.ca/parliamentarians/en/ministries
 
-Petition Search CSV/XML
-  https://petitions.parl.gc.ca/en/Petition/Search?category=All&text=peace
 
-  
 Research Publications RSS Feed
   http://www.lop.parl.gc.ca/About/Library/VirtualLibrary/ResearchPublications-e.asp?Language=E
+  
   
 Schedule of All Meetings RSS Feed
   http://www.parl.gc.ca/SenCommitteeBusiness/AllMeetings.aspx?Language=E&pastMeetings=1
@@ -45,7 +48,11 @@ The House of Commons OData service provide access to various data sets including
 Tools such as LINQpad can be used to query OData services. https://www.linqpad.net/
 
 http://ourcommons.ca/odata/MpInfos?SearchText='%‘
+
 http://ourcommons.ca/odata/MpInfos?PersonId=88892
+
+
+Member of Parliament
 
 Roles
 http://www.parl.gc.ca/Parliamentarians/en/members/88892/ExportRoles? current=True&output=XML
@@ -66,17 +73,26 @@ http://www.parl.gc.ca/LegisInfo/Result.aspx?SponsorPersonId=88892&download=xml
 Bills
 
 http://www.parl.gc.ca/LegisInfo/Home.aspx? ParliamentSession=42-1&download=xml
+
 http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?BillId=8269852&download=xml
+
 http://www.parl.gc.ca/HousePublications/Publication.aspx? DocId=8280564&Language=E&xml=true http://www.parl.gc.ca/HousePublications/Publication.aspx?
+
 
 Hansard
 
 http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=8365546&Language=E&xml=true
 http://www.parl.gc.ca/HousePublications/Publication.aspx?Pub=Hansard&Doc=72&Parl=42&Ses=1&Language=E&xml=true
 
-Petitions
+
+Petitions - XML
 
 https://petitions.parl.gc.ca/en/Petition/Search?Category=All&output=xml
+
+Petition Search - CSV/XML
+  https://petitions.parl.gc.ca/en/Petition/Search?category=All&text=peace
+
+
 
 Data Formats - XML (Documents & Data Sets)
 
