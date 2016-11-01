@@ -55,13 +55,13 @@ http://ourcommons.ca/odata/MpInfos?PersonId=88892
 Member of Parliament
 
 Roles
-http://www.parl.gc.ca/Parliamentarians/en/members/88892/ExportRoles? current=True&output=XML
+http://www.parl.gc.ca/Parliamentarians/en/members/88892/ExportRoles?current=True&output=XML
 
 Interventions in the Chamber
-http://www.parl.gc.ca/Parliamentarians/en/publicationsearch? per=88892&pubType=37&xml=1
+http://www.parl.gc.ca/Parliamentarians/en/publicationsearch?per=88892&pubType=37&xml=1
 
 Interventions in Committee
-http://www.parl.gc.ca/Parliamentarians/en/publicationsearch? per=88892&pubType=37&xml=1
+http://www.parl.gc.ca/Parliamentarians/en/publicationsearch?per=88892&pubType=37&xml=1
 
 Voting Record
 http://www.parl.gc.ca/Parliamentarians/en/members/88892/ExportVotes?output=XML
@@ -72,13 +72,13 @@ http://www.parl.gc.ca/LegisInfo/Result.aspx?SponsorPersonId=88892&download=xml
 
 Bills
 
-http://www.parl.gc.ca/LegisInfo/Home.aspx? ParliamentSession=42-1&download=xml
+http://www.parl.gc.ca/LegisInfo/Home.aspx?ParliamentSession=42-1&download=xml
 
 http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?BillId=8269852&download=xml
 
 http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=8280564&Language=E&xml=true 
 
-http://www.parl.gc.ca/HousePublications/Publication.aspx?
+http://www.parl.gc.ca/HousePublications/Publication.aspx?Pub=bill&Doc=C-12&Parl=42&Ses=1&Language=E&xml=true
 
 
 Hansard
