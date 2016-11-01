@@ -76,7 +76,9 @@ http://www.parl.gc.ca/LegisInfo/Home.aspx? ParliamentSession=42-1&download=xml
 
 http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?BillId=8269852&download=xml
 
-http://www.parl.gc.ca/HousePublications/Publication.aspx? DocId=8280564&Language=E&xml=true http://www.parl.gc.ca/HousePublications/Publication.aspx?
+http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=8280564&Language=E&xml=true 
+
+http://www.parl.gc.ca/HousePublications/Publication.aspx?
 
 
 Hansard
